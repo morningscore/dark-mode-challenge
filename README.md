@@ -13,6 +13,8 @@
 # Think about
 - How to prevent unnecessary re-renders.
 - How to implement dark mode in a bigger application. Would your solution work for this?
+- How to make the theme selection persistent for the user.
+- How to showcase your React skills and knowledge with this relatively simple challenge. 
 
 ![screenshot-light](https://morningscore.io/wp-content/uploads/2020/07/laptop1.png)
 ![screenshot-dark](https://morningscore.io/wp-content/uploads/2020/07/laptop-1.png)
